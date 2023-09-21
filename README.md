@@ -22,4 +22,6 @@ JavaScript:
 
 -Esemény hozzáadva, hogy a teendőt aktívként legyen megjelölve
 
+-Esemény hozzáadva a törlés gomb törölje a kiválasztott teendőt vagy teendőket
+
 -Kijelölt teendő hozzáadva a másik listához
