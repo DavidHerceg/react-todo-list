@@ -1,11 +1,16 @@
 # react-todo-list
 HTML:
 
--Mai Teendő kártya létrehozva 
+-Navbar létrehozása a ToDo List logó számára.
 
--Holnapi teendő kártya létrehozva
+-Új teendő hozzáadása kártya létrehozva (Add new task): Cím, input (Describe task), today és tomorrow kijelölő doboz, save gomb 
 
--Új teendő hozzáadása kártya létrehozva
+-Mai Teendő kártya létrehozva (Tasks for today): Ide töltődik bele a mai kívánt teendő
+
+-Holnapi teendő kártya létrehozva (Tasks for tomorrow): Ide töltődik bele a holnapi kívánt teendő
+
+-Irányító gombok létrehozva: Jobb nyíl gomb →, Bal nyíl gomb ←, delete gomb
+
 
 JavaScript:
 
